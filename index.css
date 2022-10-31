@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'B612';
+font-style: normal;
+font-size: 20px;
+line-height: 36px;
+/* identical to box height, or 90% */
+text-align: center;
+color: #FBBF24;
+}
+
+.container2 {
+display: flex ;
+
+
+}
+
+.container3 {
+display: flex ;
+
+
+}
+
+.square {
+position: relative;
+font-family: 'B612';
+font-style: normal;
+font-size: 25px;
+width: 80px;
+line-height: 20px;
+left:38px;
+
+/* identical to box height, or 90% */
+text-align: center;
+color: #F40606;
+background: black;
+
+}
+
+.square2 {
+position: relative;
+font-family: 'B612';
+font-style: normal;
+font-size: 25px;
+width: 80px;
+line-height: 20px;
+left:38px;
+left:110px;
+/* identical to box height, or 90% */
+text-align: center;
+color: #F40606;
+background: black;
+}
+
+.point1 {
+display: inline-block;
+position: relative;
+font-family: 'B612';
+font-style: normal;
+font-size: 10px;
+width: 100px;
+line-height: 20px;
+left:30px;
+/* identical to box height, or 90% */
+text-align: center;
+color: #9AABD8;
+
+}
+
+.point2 {
+display: inline-block;
+position: relative;
+font-family: 'B612';
+font-style: normal;
+font-size: 10px;
+width: 100px;
+line-height: 20px;
+left:20px;
+left:80px;
+/* identical to box height, or 90% */
+text-align: center;
+color: #9AABD8;
+
+}
+
